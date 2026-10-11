@@ -1,0 +1,4 @@
+interface:
+  display_name: "Admissions Writing"
+  short_description: "Build and revise truthful, voice-matched admissions writing"
+  default_prompt: "Use $admissions-writing to analyze the prompt, preserve factual and ownership locks, and improve this admissions document."
